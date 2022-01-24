@@ -2,7 +2,7 @@
 
 Author: Valentin Cabon, Collaborators: Miriam Bùi, Henning Kühne, Ingo Kowarik, Moritz von der Lippe, Sascha Buchholz
 
-This repository provides R codes and data to reproduce the analysis described in the submitted manuscript "Wild boars and urban grassland conservation: positive or neutral relationships between soil disturbance and endangered animals and plants". The analysis aims to test if wild boar activities on urban dry grasslands are related to alterations in plant and animal communities, with a particular focus on endangered species, habitat specialists and non-native species. The dataset contains information about 22 study sites ditributed located in Berlin, Germany. 
+This repository provides R codes and data to reproduce the analysis described in the submitted manuscript "Wild boars and urban grassland conservation: positive or neutral relationships between soil disturbance and endangered animals and plants". The analysis aims to test if wild boar activities on urban dry grasslands are related to alterations in plant and animal communities, with a particular focus on endangered species, habitat specialists and non-native species. The dataset contains information about 22 study sites located in Berlin, Germany. 
 
 # Data
 
