@@ -6,7 +6,7 @@ This repository provides R codes and data to reproduce the analysis described in
 
 # Data
 
-The provided dataset "data/vegetation.csv" contains the investigated biodiversity indices related to vascular plants. Dataset "Data/fauna.csv" contains biodiversity indices related to grasshoppers and sand lizards. Dataset "data/abundance_vasc_plants" contains abundance data of recorded vascular plant species (singletons were removed). Dataset "data/abundance_grasshoppers" contains abundance data of recorded grasshopper species (singletons were here removed as well). finally, the dataset "data/predictors" contains the environment variables, ingluding measures of wild boar's activities, tested as predictors in the analysis.
+The provided dataset "data/vegetation.csv" contains the investigated biodiversity indices related to vascular plants. Dataset "data/fauna.csv" contains biodiversity indices related to grasshoppers and sand lizards. Dataset "data/abundance_vasc_plants" contains abundance data of recorded vascular plant species (singletons were removed). Dataset "data/abundance_grasshoppers" contains abundance data of recorded grasshopper species (singletons were here removed as well). finally, the dataset "data/predictors" contains the environment variables, ingluding measures of wild boar's activities, tested as predictors in the analysis.
 
 # Run the scripts
 
