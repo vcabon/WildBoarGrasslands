@@ -1,0 +1,21 @@
+{
+    "debugBreakpointsState": {
+        "breakpoints": [
+            {
+                "id": 7,
+                "path": "C:/Users/Valentin Cabon/Cozy Drive/Wildschwein/Paper_Wildschwein/R-Codes/Wild_boars_dry_grasslands/scripts/plot_GLMMs_results.R",
+                "line_number": 36,
+                "function_steps": "",
+                "function_name": "toplevel",
+                "state": 1,
+                "editor_state": 1,
+                "editor_line_number": 36,
+                "is_pending_debug_completion": false,
+                "needs_updated_steps": false,
+                "type": 1,
+                "is_package_breakpoint": false,
+                "package_name": ""
+            }
+        ]
+    }
+}
