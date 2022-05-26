@@ -31,22 +31,22 @@ source("./scripts/check_non_collinearity.R")
 
 # determine the most efficient predictor of relationships between wild boar rooting or frequency and response patterns
 # in plants
-source("./selection_variables_vegetation.R")
+source("./scripts/selection_variables_vegetation.R")
 
 # in grasshoppers and sand lizards
-source("./selection_variables_fauna.R")
+source("./scripts/selection_variables_fauna.R")
 
 # Run GLMMs on vegetation data
-source("./GLMMs_vegetation.R")
+source("./scripts/GLMMs_vegetation.R")
 
 # Run GLMMs on fauna data (grasshoppers and lizard)
-source("./GLMMs_vegetation.R")
+source("./scripts/GLMMs_fauna.R")
 
 # Plot GLMMs results 
-source("./plot_GLMMs_results.R")
+source("./scripts/plot_GLMMs_results.R")
 
 # run NMDS on plant species data
-source("./NMDS_vegetation.R")
+source("./scripts/NMDS_vegetation.R")
 
-# run NMDS, RDA and SIMPER analysis on plant species data
-source("./NMDS_RDA_SIMPER_grasshoppers.R")
+# run NMDS, RDA and SIMPER analysis on grasshopper species data
+source("./scripts/NMDS_RDA_SIMPER_grasshoppers.R")

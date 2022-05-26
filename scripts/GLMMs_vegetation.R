@@ -20,7 +20,7 @@ summary.models.gaussian.veg <- lapply(models.gaussian.veg, function(x)
 })
 
 # List R2 gaussians GLMMs 
-R2_models.gaussian.fauna <- lapply(models.gaussian.fauna, function(x) 
+R2_models.gaussian.veg <- lapply(models.gaussian.veg, function(x) 
 {
   rsq(x)
 })
@@ -46,7 +46,7 @@ summary.models.binomial.veg <- lapply(models.binomial.veg, function(x)
 })
 
 # List R2 binomial GLMMs 
-R2_models.binomial.fauna <- lapply(models.binomial.fauna, function(x) 
+R2_models.binomial.veg <- lapply(models.binomial.veg, function(x) 
 {
   rsq(x)
 })
